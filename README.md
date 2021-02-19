@@ -1,2 +1,2 @@
 # Breakout
-A breakout game
+A Breakout game programmed with Java Swing
